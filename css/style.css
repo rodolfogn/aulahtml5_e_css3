@@ -1,0 +1,45 @@
+body{
+    background:cadetblue ;
+    background-size: 1900px; 
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    margin-left: 50px;
+    margin-right: 500px;
+}
+
+header{
+    margin-bottom:10px;
+}
+
+nav{
+    margin-bottom: 200px ;
+}
+
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: burlywood;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aquamarine;
+}
+p{
+    font-family:'Times New Roman', Times, serif ;
+    color: black ;
+}
+a{
+    color:  black;
+}
+
+.img_padrao{
+    width: 300px;
+    margin-bottom: 25px;
+}
+.logo{
+    width: 70px;
+    margin-bottom:0px ;
+}
+footer{
+    margin-top: 200px;
+}
